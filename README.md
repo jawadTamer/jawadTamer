@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on graduation project<br>👯 I’m looking to collaborate on E-commerce app<br>🤝 I’m looking for help with chat api<br>🌱 I’m currently learning full stack development<br>💬 Ask me about<br>⚡ Fun fact
-
+🔭 I’m currently working on graduation project<br>👯 I’m looking to collaborate on E-commerce app<br>🤝 I’m looking for help with chat api<br>🌱 I’m currently learning full stack development<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100086256496924&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jawadd_t) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jawad-tamer-a2a720292?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
